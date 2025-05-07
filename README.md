@@ -1,4 +1,4 @@
-# Hi there, I'm Kaushik 👋
+# Hi there, I am Kaushik 👋
 
 I am a data science professional with 2+ years of experience, working at the intersection of **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI**.
 
