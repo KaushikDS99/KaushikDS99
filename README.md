@@ -1,8 +1,10 @@
 # Hi there, I am Kaushik 👋
 
-I am a data science professional with 2+ years of experience, working at the intersection of **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI**.
+I am a data science and AI professional with 2+ years of experience, working at the intersection of **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Generative AI** and **Agentic AI** !
 
-I am always exploring, building, deploying, iterating and of course learning — one model at a time 🚀
+I am always up for exploring newer and better approaches, building, deploying, iterating, and of course learning 🚀
+
+I strive to maintain a balanced approach by strengthening core fundamentals while actively applying them through hands-on practical work.
 
 
 - My Linkedin: [Linkedin Profile](https://www.linkedin.com/in/kaushik-chakraborty-11045b150/)
